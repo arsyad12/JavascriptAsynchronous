@@ -1,0 +1,4 @@
+1. call stack function, sebuah mekanisme memori pada javascript
+call stack ini berfungsi untuk melacak lokasi script yang memanggil fungsi fungsi yang sedang berjalan
+
+2. call back hell, kondisi dimana kita memanggil function didalam function berkali kali
