@@ -52,8 +52,11 @@ async function changeColor2() {
     return 'all done'
 }
 
+
+//result nya akan berniali all done karena akan mengambil nilai return dari function changeColor2
+
 changeColor2().then((result) => {
-    alert(result)
+    console.log(result)
 }).catch((err) => {
     
 });
